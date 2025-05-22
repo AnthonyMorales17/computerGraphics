@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\taller_estrella\\frmstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|solutionrelative:taller_estrella\\frmstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\taller_estrella\\frmstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|solutionrelative:taller_estrella\\frmstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|c:\\users\\jordan guaman\\desktop\\pruebafinal_vsmoradoowo\\taller_estrella\\taller_estrella\\cstarinsidestars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|solutionrelative:taller_estrella\\cstarinsidestars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\taller_estrella\\ctrasladar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|solutionrelative:taller_estrella\\ctrasladar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\taller_estrella\\cescalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|solutionrelative:taller_estrella\\cescalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\taller_estrella\\crotar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|solutionrelative:taller_estrella\\crotar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\taller_estrella\\frmstar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|solutionrelative:taller_estrella\\frmstar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\taller_estrella\\cestrella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|solutionrelative:taller_estrella\\cestrella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\taller_estrella\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AD0BD4-6101-4F10-9807-6F7E299832A2}|TALLER_ESTRELLA\\TALLER_ESTRELLA.csproj|solutionrelative:taller_estrella\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmStar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\frmStar.Designer.cs",
+              "RelativeDocumentMoniker": "TALLER_ESTRELLA\\frmStar.Designer.cs",
+              "ToolTip": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\frmStar.Designer.cs",
+              "RelativeToolTip": "TALLER_ESTRELLA\\frmStar.Designer.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAuwK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:33:18.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CTrasladar.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\CTrasladar.cs",
+              "RelativeDocumentMoniker": "TALLER_ESTRELLA\\CTrasladar.cs",
+              "ToolTip": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\CTrasladar.cs",
+              "RelativeToolTip": "TALLER_ESTRELLA\\CTrasladar.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:19:48.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CEscalar.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\CEscalar.cs",
+              "RelativeDocumentMoniker": "TALLER_ESTRELLA\\CEscalar.cs",
+              "ToolTip": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\CEscalar.cs",
+              "RelativeToolTip": "TALLER_ESTRELLA\\CEscalar.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:19:23.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CRotar.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\CRotar.cs",
+              "RelativeDocumentMoniker": "TALLER_ESTRELLA\\CRotar.cs",
+              "ToolTip": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\CRotar.cs",
+              "RelativeToolTip": "TALLER_ESTRELLA\\CRotar.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:19:08.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmStar.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\frmStar.cs",
+              "RelativeDocumentMoniker": "TALLER_ESTRELLA\\frmStar.cs",
+              "ToolTip": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\frmStar.cs",
+              "RelativeToolTip": "TALLER_ESTRELLA\\frmStar.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAYwMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:13:48.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmStar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\frmStar.cs",
+              "RelativeDocumentMoniker": "TALLER_ESTRELLA\\frmStar.cs",
+              "ToolTip": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\frmStar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TALLER_ESTRELLA\\frmStar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:18:12.226Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CStarInsideStars.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\CStarInsideStars.cs",
+              "RelativeDocumentMoniker": "TALLER_ESTRELLA\\CStarInsideStars.cs",
+              "ToolTip": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\CStarInsideStars.cs",
+              "RelativeToolTip": "TALLER_ESTRELLA\\CStarInsideStars.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:57:59.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CEstrella.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\CEstrella.cs",
+              "RelativeDocumentMoniker": "TALLER_ESTRELLA\\CEstrella.cs",
+              "ToolTip": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\CEstrella.cs",
+              "RelativeToolTip": "TALLER_ESTRELLA\\CEstrella.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAywG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:31:25.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\Program.cs",
+              "RelativeDocumentMoniker": "TALLER_ESTRELLA\\Program.cs",
+              "ToolTip": "C:\\Users\\Jordan Guaman\\Desktop\\PRUEBAFINAL_VSMORADOOWO\\TALLER_ESTRELLA\\TALLER_ESTRELLA\\Program.cs",
+              "RelativeToolTip": "TALLER_ESTRELLA\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:35:16.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
